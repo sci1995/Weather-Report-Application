@@ -17,7 +17,7 @@ OpenWeatherMap API: Fetches the current weather data to be displayed to the user
 
 # Installation
 Clone the Repository
-git clone https://github.com/your-username/weather-report-app.git
+git clone  https://github.com/sci1995/Weather-Report-Application.git
 Navigate to the Project Directory
 
 cd weather-report-app
