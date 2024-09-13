@@ -1,12 +1,43 @@
 # Weather-Report-Application
-The Weather Report Web Application is a straightforward yet powerful tool designed to provide users with real-time weather information based on their input. This application is built using a combination of HTML, CSS, and JavaScript, and it leverages the OpenWeatherMap API to fetch and display current weather data.
-Key Features:
-* User Input: Users can enter a city name and a country code to get the weather report for their desired location. The interface is user-friendly, with clearly labeled input fields and a submission button to trigger the weather query.
-* Real-Time Data: By integrating with the OpenWeatherMap API, the application retrieves and displays up-to-date weather information. This includes the current weather description, temperature (in Celsius), humidity level, and wind speed.
-* Responsive Design: The application is designed to be responsive and visually appealing across various devices and screen sizes. The layout adjusts to provide an optimal viewing experience, whether accessed from a desktop, tablet, or mobile device.
-* Error Handling: The application includes basic error handling to manage situations where the API request might fail or when users input incorrect or incomplete information. Users receive clear feedback if something goes wrong.
-Technologies Used:
-* HTML for the structure of the web page, defining the form for user input and the area where the weather information is displayed.
-* CSS for styling the application, ensuring that the layout is attractive and user-friendly.
-* JavaScript for handling user interactions, making API calls, and dynamically updating the weather information on the page.
-* OpenWeatherMap API for retrieving current weather data, providing the essential information needed to generate accurate weather reports.
+
+Overview
+The Weather Report Web Application is a straightforward yet powerful tool designed to provide users with real-time weather information based on their input. Built using HTML, CSS, and JavaScript, this application leverages the OpenWeatherMap API to fetch and display current weather data. Users can enter a city name and country code to receive up-to-date information on weather conditions, including temperature, humidity, and wind speed.
+
+Features
+User Input: Enter a city name and country code to get the weather report for the desired location.
+Real-Time Data: Retrieves and displays current weather details such as description, temperature (in Celsius), humidity, and wind speed.
+Responsive Design: Ensures usability and an optimal viewing experience across various devices, including desktops, tablets, and mobile phones.
+Error Handling: Provides user-friendly feedback in case of API request failures or invalid input.
+
+Technologies Used
+HTML: Structures the content of the web page, including form inputs and display areas.
+CSS: Styles the application to enhance visual appeal and layout.
+JavaScript: Manages user interactions, makes API requests, and dynamically updates the weather information on the page.
+OpenWeatherMap API: Fetches the current weather data to be displayed to the user.
+
+Installation
+Clone the Repository
+git clone https://github.com/your-username/weather-report-app.git
+Navigate to the Project Directory
+
+cd weather-report-app
+Open index.html in a Web Browser
+
+You can open index.html directly in your web browser to view and interact with the application.
+
+Usage
+Open the application in your web browser.
+Enter the city name and country code into the input fields.
+Click the "Get Current Weather" button to fetch and display the weather report.
+
+Example
+City Name: London
+Country Code: GB
+The application will display the current weather in London, GB, including the weather description, temperature, humidity, and wind speed.
+
+Contributing
+Feel free to fork the repository and submit pull requests for any improvements or bug fixes. For major changes, please open an issue to discuss the proposed modifications.
+
+Contact
+For questions or feedback, please contact Aisha Beltagy.
+
