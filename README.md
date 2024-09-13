@@ -20,7 +20,7 @@ Clone the Repository
 git clone  https://github.com/sci1995/Weather-Report-Application.git
 Navigate to the Project Directory
 
-cd weather-report-app
+cd Weather-Report-Application
 Open index.html in a Web Browser
 
 You can open index.html directly in your web browser to view and interact with the application.
